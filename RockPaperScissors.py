@@ -41,3 +41,4 @@ elif computer_choice < user_choice:
     print("You win!")
 elif computer_choice == user_choice:
     print("Draw!")
+input("Press Enter to exit...")
